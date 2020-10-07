@@ -44,3 +44,6 @@ Idea for course will be to have a combined introductory stats and R course runni
 * Introduction to ANOVA [Link](https://bookdown.org/steve_midway/DAR/understanding-anova-in-r.html)
 * Teaching tech guide [Link](https://teachtogether.tech/)
 * Learn statistics with R [Link](https://learningstatisticswithr.com/)
+* R tutor elementary statistics [Link](http://www.r-tutor.com/elementary-statistics)
+
+
